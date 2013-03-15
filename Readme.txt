@@ -1,6 +1,6 @@
 === SDS Slider ===
 Contributors: Yevale
-Donate link: https://www.paypal.com/in/cgi-bin/webscr?cmd=_flow&SESSION=Kf2Hth7pszIdhfwe_PPv8giHB1raGp7bGyTmHies7SUxtA2x36j8H8Lq-iC&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b081989ce41f911b8b0f9abd5cb813489264cd
+Donate link: 
 Tags: dynamic slider, smooth slider, category slider
 Minimum version: 3.0
 Requires at least: 3.0
