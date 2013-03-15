@@ -1,10 +1,13 @@
 === SDS Slider ===
-Contributors: yevale
+Contributors: Yevale
+Donate link: https://www.paypal.com/in/cgi-bin/webscr?cmd=_flow&SESSION=Kf2Hth7pszIdhfwe_PPv8giHB1raGp7bGyTmHies7SUxtA2x36j8H8Lq-iC&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b081989ce41f911b8b0f9abd5cb813489264cd
 Tags: dynamic slider, smooth slider, category slider
 Minimum version: 3.0
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 Smooth Dynamic Slider adds a dynamic smooth content and images purposeful slideshow with customizable image height, width and slide intervals to any location of your post or page.
@@ -36,7 +39,7 @@ In the WP Admin, navigate to SDS slider->Manage Category.
 
 == Screenshots ==
 
-1. Add/Manage category.
+1. Add/Manage slider.
 2. Add/Manage category wise slider.
-3. SDS slider settings.
+3. Add/Manage sliders category.
 4. Slider at front side.
