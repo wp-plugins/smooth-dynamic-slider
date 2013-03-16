@@ -1,4 +1,4 @@
-=== SDS Slider ===
+=== Smooth Dynamic Slider ===
 Contributors: Yevale
 Donate link: 
 Tags: dynamic slider, smooth slider, category slider
@@ -6,8 +6,7 @@ Minimum version: 3.0
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv2
 
 == Description ==
 Smooth Dynamic Slider adds a dynamic smooth content and images purposeful slideshow with customizable image height, width and slide intervals to any location of your post or page.
@@ -19,7 +18,6 @@ Smooth Dynamic Slider adds a dynamic smooth content and images purposeful slides
 <li>Manage images height, width and slider interval.</li>
 <li>Full control over the looks thru the Settings Panel.</li>
 <li>No Need Of Knowledge of PHP, HTML or CSS. But for those having knowledge can easly modify or customize.</li>
-<li>Uninstall the plugin, to remove this plugin directory, images and drop related tabel from database.</li>
 </ul>
 
 == Installation ==
