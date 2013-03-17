@@ -1,5 +1,6 @@
 === Smooth Dynamic Slider ===
 Contributors: Yevale
+Author URI: http://profiles.wordpress.org/kundanyevale
 Donate link: 
 Tags: dynamic slider, smooth slider, category slider
 Minimum version: 3.0
