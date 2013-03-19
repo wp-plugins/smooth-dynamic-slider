@@ -4,7 +4,7 @@
   Description: Category wise smooth dynamic slider.
   Author: Kundan Yevale
   Version: 1.0
-  Author URI: http://profiles.wordpress.org/kundanyeval
+  Author URI: http://profiles.wordpress.org/kundanyevale
  */
 
 // DEFINE CONSTANTS
