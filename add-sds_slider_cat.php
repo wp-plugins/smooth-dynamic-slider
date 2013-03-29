@@ -7,12 +7,6 @@
       <a href="admin.php?page=add-slidercategory&type=add" class="add-new-h2">Add New</a>
     <?php } ?>
     </h2>  
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="3L85D7GEHZJ82">
-<input type="image" src="http://www.marutiplastorub.com/plugins/images/Donate_thumb.png" border="0" name="submit" alt="PayPal — The safer, easier way to pay online.">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
 			<div id="message" class="updated below-h2" style="display:none;"><p></p></div>
 			
 			<?php if (isset($_GET['type']) && $_GET['type'] == "add") { 
@@ -189,4 +183,18 @@
       });
     </script>	
     		<?php } ?>
+</div>
+
+<div style="display:block; background-color:#F5F5F5;">
+	<p style="margin:7px;">
+	<strong>If you love Smooth Dynamic Slider, any donation would be appreciated! It helps to continue the development and support of the plugin.</strong>
+	</p>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3L85D7GEHZJ82">
+<input type="image" src="http://www.marutiplastorub.com/plugins/images/Donate_thumb.png" border="0" name="submit" alt="PayPal — The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 </div>
